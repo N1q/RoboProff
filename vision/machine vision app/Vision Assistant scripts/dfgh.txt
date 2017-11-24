@@ -1,0 +1,4 @@
+C:\ProgramData\National Instruments\Vision Assistant\16561091.png	22.09.2017	13:50:00
+Object #	Label	Classification Score	Identification Score	
+# 1	Purple	39	508	
+
